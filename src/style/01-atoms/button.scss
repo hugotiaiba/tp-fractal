@@ -1,0 +1,26 @@
+.a-button{
+    background: var(--colorButton);
+    width:327px;
+    height:40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+.a-button--type1{
+    border-radius:0 0 18px 18px;
+}
+.a-button--type2{
+    border-radius: 18px;
+}
+
+
+
+.a-button--text {
+    color: var(--colorTextReversed);
+    font-family: var(--fontFamilyTitle);
+}

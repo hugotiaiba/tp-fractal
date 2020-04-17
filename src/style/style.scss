@@ -11,20 +11,15 @@
 @import '01-atoms/image.scss';
 @import '01-atoms/paragraph.scss';
 @import '01-atoms/title.scss';
+@import '01-atoms/button.scss';
 
 @import '02-molecules/chapter-title.scss';
-@import '02-molecules/codepen.scss';
-@import '02-molecules/codes.scss';
+@import '02-molecules/action-bloc.scss';
 @import '02-molecules/correction.scss';
-@import '02-molecules/figure.scss';
 @import '02-molecules/icon-link.scss';
-@import '02-molecules/info.scss';
 @import '02-molecules/part-title.scss';
 @import '02-molecules/resources.scss';
-@import '02-molecules/question.scss';
 @import '02-molecules/twitter-account.scss';
-@import '02-molecules/title-link.scss';
-@import '02-molecules/word.scss';
 
 @import '03-organisms/chapter.scss';
 @import '03-organisms/chapter-link.scss';

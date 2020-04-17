@@ -3,6 +3,7 @@
     font-size: var(--fontSizeM);
     line-height: var(--lineHeightMain);
     color: var(--colorTextMain);
+    text-align: center;
   
     code {
       font-family: var(--fontFamilyCode);
@@ -18,3 +19,14 @@
     }
   }
   
+  .a-paragraph--level1 {
+    font-size: var(--fontSizeXL);
+  }
+
+  .a-paragraph--level2 {
+    font-size: var(--fontSizeL);
+  }
+
+  .a-paragraph--level2 {
+    font-size: var(--fontSizeL);
+  }
