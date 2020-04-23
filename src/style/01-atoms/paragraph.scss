@@ -1,6 +1,5 @@
 .a-paragraph {
     font-family: var(--fontFamilyMain);
-    font-size: var(--fontSizeM);
     line-height: var(--lineHeightMain);
     color: var(--colorTextMain);
     text-align: center;
@@ -27,6 +26,6 @@
     font-size: var(--fontSizeL);
   }
 
-  .a-paragraph--level2 {
-    font-size: var(--fontSizeL);
+  .a-paragraph--level3 {
+    font-size: var(--fontSizeM);
   }
