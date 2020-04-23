@@ -13,17 +13,14 @@
       font-weight: var(--fontWeightBold);
     }
   
-    em {
-      font-style: italic;
-    }
   }
   
   .a-paragraph--level1 {
-    font-size: var(--fontSizeXL);
+    font-size: var(--fontSizeL);
   }
 
   .a-paragraph--level2 {
-    font-size: var(--fontSizeL);
+    font-size: var(--fontSizeM);
   }
 
   .a-paragraph--level3 {
